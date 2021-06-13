@@ -1,3 +1,5 @@
+## My Git Workflow ##
+
 A simple repository to help me develop and practice using a Github workflow that manages:
 
 - Project outline (milestones, wiki)
