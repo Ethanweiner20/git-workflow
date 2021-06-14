@@ -1,4 +1,4 @@
-# Story Title
+# Issue
 
 [This is the Issue Title](https://github.com/username/repository-name/issues/1)
 
@@ -7,10 +7,6 @@
 - made this
 - did that
 
-## How does the solution address the problem
-
-This PR will...
-
-## Linked issues
+## Other linked issues
 
 Resolves #1

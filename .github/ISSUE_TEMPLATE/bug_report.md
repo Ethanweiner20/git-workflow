@@ -1,21 +1,19 @@
 ---
-
 name: Bug report
 about: Create a report to help us improve
-
 ---
 
 <!-- Please search existing issues to avoid creating duplicates. -->
 
-# Bug Report
+# Bug Title
 
-Bug: Not so Awesome Bug Title
+Title for the bug
 
 ## Description
 
 Info about the bug goes here.
 
-### Steps to Reproduce
+### Steps to Fix
 
 1. Step 1
 2. Step 2
@@ -24,10 +22,8 @@ Info about the bug goes here.
 
 The expected result was...
 
-You may write the expected result or add a screenshot.
-
 ### Actual Results
 
 The actual result was...
 
-Would be awesome to link screenshots here and/or error messages received.
+Consider using screenshots
